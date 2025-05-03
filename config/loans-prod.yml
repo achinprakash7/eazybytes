@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "welcome back, you are reading from loans prod file"
+  contactDetails:
+    name: "Achin Prakash"
+    email: "achin.pd3@gmail.com"
+  onCallSupport:
+    - "(0631) 250251"
+    - "(0631) 450851"
