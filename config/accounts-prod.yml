@@ -5,7 +5,7 @@ accounts:
   message: "welcome back, you are reading from accounts prod file"
   contactDetails:
     name: "Achin Prakash"
-    email: "{cipher}cf80b57ede8ce483fd6a030832665a2ae91de84cf1b266808d6dc41793e2b618d579442cfeb19bd7848f600d0497682a"
+    email: "achin.prakash7@gmail.com"
   onCallSupport:
     - "(0631) 250251"
     - "(0631) 450851"
