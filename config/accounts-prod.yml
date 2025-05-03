@@ -2,10 +2,10 @@ build:
   version: 3.0
 
 accounts:
-  message: "welcome back, you are reading from accounts prod file"
+  message: "welcome back, you are reading from accounts production file"
   contactDetails:
     name: "Achin Prakash"
-    email: "achin.prakash8@gmail.com"
+    email: "achin.prakash7@gmail.com"
   onCallSupport:
     - "(0631) 250251"
     - "(0631) 450851"

@@ -2,10 +2,10 @@ build:
   version: 3.0
 
 cards:
-  message: "welcome back, you are reading from cards prod file"
+  message: "welcome back, you are reading from cards production file"
   contactDetails:
     name: "Achin Prakash"
-    email: "achin.pd5@gmail.com"
+    email: "achin.pd3@gmail.com"
   onCallSupport:
     - "(0631) 250251"
     - "(0631) 450851"
