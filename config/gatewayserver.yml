@@ -1,0 +1,11 @@
+server:
+  port: 8072
+
+eureka:
+  instance:
+    preferIpAddress: true # tells the Eureka client to use the IP address instead of the hostname when registering itself with Eureka.
+  client:
+    fetchRegistry: true # by default it is true. I don't want to fetch the registry details of other microservice.
+    registerWithEureka: true # Don't register with yourself. Don't expose your details in the registry of the service discovery.
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka/ # This is the endpoint where clients (or the server itself in standalone mode) will register and/or fetch service information.
